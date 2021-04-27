@@ -3,7 +3,7 @@
 
 About simplify_task_kanban_v12c_1
 
-- Button for adding a new column/stage in the kanban view is hidden, it is shown only to users who have system admin access.
+- The button for adding a new column/stage in the kanban view is hidden, it is shown only to users who have system admin access.
 
 # Installation
 
@@ -27,16 +27,9 @@ Contributors This module was original authored by Bojan Anchev at NEBIZ® in Sko
 
 # Users
 
-Currently this module is being used in the odoo Helpdesk solution by Simplify-ERP®.
+Currently this module is being used in the odoo Project module by Simplify-ERP®.
 
 We are happy to list your delightful projects here. Just inform us with a few notes by email!
-
-# Demo
-
-This module can be tested here, with the Login credentials:
-
-    User: ebarchivetest@simplify-erp.com
-    Pass: ebarchivedemo123
 
 # Feel free to comment and leave feedback.
 # Thank you!
