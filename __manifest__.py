@@ -13,7 +13,7 @@
 
     'author': "Simplify ERP",
     'website': "https://simplify-erp.com/",
-    'category': 'Uncategorized',
+    'category': 'Project, Task Stage/Type',
     'version': '1.0',
     'depends': ['base', 'project'],
     'data': [
