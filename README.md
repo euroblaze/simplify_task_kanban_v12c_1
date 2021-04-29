@@ -17,9 +17,9 @@ Compatibility This module is compatible with 12c. Currently fully tested on 12c.
 
 # Contributors
 
-Contributors This module was original authored by Bojan Anchev at NEBIZ® in Skopje, Macedonia.
+This module was original authored by Bojan Anchev at Simplify-ERP®/NEBIZ® in Skopje, Macedonia. We can be reached at odoo@simplify-erp.com with your comments and suggestsion for this module!
 
-# We are reaching out to more contributors who can help with..
+**We are reaching out to more contributors who can help with..**
 
 - testing this module
 - making it compatible with more odoo versions
@@ -31,5 +31,6 @@ Currently this module is being used in the odoo Project module by Simplify-ERP®
 
 We are happy to list your delightful projects here. Just inform us with a few notes by email!
 
-# Feel free to comment and leave feedback.
-# Thank you!
+Feel free to comment and leave feedback.
+
+Thank you!
