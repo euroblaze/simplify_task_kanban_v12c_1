@@ -9,7 +9,7 @@ About simplify_task_kanban_v12c_1
 
 Use git clone or just download the .zip package files, unzip at the addons directory, update the modules list and install the module. No further configuration is needed, you are good to go.
 
-Have a great time user. It's a NEBIZ® creation. Rate tasks with simplify_task_kanban_v12c_1!!! Cheers.
+Have a great time user. It's a Simplify-ERP®/NEBIZ® creation. Rate tasks with simplify_task_kanban_v12c_1!!! Cheers.
 
 # Compatibility
 
