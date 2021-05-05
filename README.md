@@ -27,7 +27,7 @@ This module was original authored by Bojan Anchev at Simplify-ERP®/NEBIZ® in S
 
 # Users
 
-Currently this module is being used in the odoo Project module by Simplify-ERP®.
+Currently this module is being used in the odoo Project module by [Simplify-ERP®](https://simplify-erp.com/).
 
 We are happy to list your delightful projects here. Just inform us with a few notes by email!
 
