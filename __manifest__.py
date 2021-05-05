@@ -11,8 +11,8 @@
         allow access only to the users that have an option to activate the developer/debug mode.
     """,
 
-    'author': "Simplify ERP",
-    'website': "https://simplify-erp.com/",
+    'author': "Bojan Anchev",
+    'website': "m102@simplify-erp.com",
     'category': 'Project, Task Stage/Type',
     'version': '1.0',
     'depends': ['base', 'project'],
